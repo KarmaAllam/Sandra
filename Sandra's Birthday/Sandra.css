@@ -1,0 +1,276 @@
+header center p a{
+    font-size: 50px;
+    color: brown;
+    margin-bottom: 0;
+    font-family: 'Lobster', cursive;
+
+}
+body{
+   background-image: url(background.jpg);
+   background-size: contain;
+}
+.title_1{
+    font-family:Love Ya Like A Sister ;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    margin-top: 0;
+    margin-bottom: 15px;
+    background-color: plum;
+    padding: 10px;
+    text-align: center;
+    border: solid white;
+    border-radius: 20px;
+    width: 1300px;
+}
+.title_2{
+    font-family:Love Ya Like A Sister ;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    margin-top: 0;
+    margin-bottom: 15px;
+    background-color: plum;
+    padding: 10px;
+    text-align: center;
+    border: solid white;
+    border-radius: 20px;
+    width: 300px;
+}
+.buckle-up{
+    height: 350px;
+    width: 1000px;
+}
+#speachone{
+    font-family:Love Ya Like A Sister ;
+    font-size: 30px;
+    font-weight: bold;
+    color:black;
+    margin-top: 15px;
+    margin-bottom: 0;
+    background-color: plum;
+    padding: 10px;
+    text-align: center;
+    border: solid white;
+    border-radius: 20px;
+    size: contain;
+}
+#speachtwo{
+    font-family:Love Ya Like A Sister ;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: plum;
+    padding: 10px;
+    text-align: center;
+    border: solid white;
+    border-radius: 20px;
+    size: contain;
+}
+#fivethings{
+    border: 4px dotted salmon;
+    width:500px;
+    background-color: lightblue;
+    float: left;
+
+}
+#fivethings h2{
+    text-align: center;
+    margin: 0px;
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 70px;
+
+}
+#fivethings ul li {
+    margin: 0px;
+    list-style-type: none;
+    font-size: 20px;
+    text-align: left;
+}
+#fivethings ul li a:hover{
+    cursor: pointer;
+    color: orangered;
+    background-color: bisque;
+    border: black solid;
+    border-radius: 50px;
+    padding: 3px;
+}
+#fivethings ul li a{
+    color: black;
+    font-size: 25px;
+}
+#fourthings{
+    border: 4px dotted salmon;
+    float: right;
+    width:450px;
+    background-color: lightblue;
+    height: 257.812px;
+}
+#fourthings h2{
+    text-align: center;
+    margin: 0px;
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 60px;
+}
+#fourthings ul li{
+    margin: 0px;
+    list-style-type: none;
+    font-size: 25px;
+    text-align: center;
+}
+#threethings{
+    
+    border: 4px dotted salmon;
+    float: none;
+    background-color: lightblue;
+    width: 600px;
+    margin-left: 505px;
+    margin-top:300px;
+    
+    
+}
+#threethings h2{
+    margin: 0px;
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 70px;
+    text-align: center;
+}
+#threethings h3{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', cursive, 'Trebuchet MS', sans-serif;
+    font-size: 26;
+}
+#threethings ul li{
+    margin: 0px;
+    list-style-type: none;
+    font-size: 25px;
+    text-align: center;
+}
+#twothings{
+    border: 4px dotted salmon;
+    width:450px;
+    background-color: lightblue;
+    float: left;
+    margin-top: 15px;
+    height: 208.099px;
+}
+#twothings h2{
+    text-align: center;
+    margin: 0px;
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 60px;
+
+}
+#twothings ul li{
+    margin: 0px;
+    list-style-type: none;
+    font-size: 25px;
+    text-align: center;
+}
+#onething {
+    border: 4px dotted salmon;
+    float: right;
+    width: 400px;
+    background-color: lightblue;
+    margin-top: 15px;
+    
+}
+#onething h2{
+    text-align: center;
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 70px;
+    margin-top: 0;
+}
+#onething p{
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    font-weight: bolder;
+    font-size: 30px;
+    color:darkred;
+
+}
+#favorite-scenes  h1{
+    margin-top: 200px;
+}
+#us{
+    margin-top: 250px;
+    margin-left: 45px;
+    
+}
+#fav-scenes ul{
+    padding: 10px;
+    background-color: plum;
+    list-style-type: none;
+    text-align: center;
+    border: solid white;
+    border-radius: 20px;
+}
+#fav-scenes ul li{
+    display: inline;
+    margin: 60px;
+    
+}
+#fav-scenes ul li a{
+    color: black;
+    display: inline-block;
+    height: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+#fav-scenes ul li a:hover{
+    color: darkred;
+    cursor: pointer;
+    background-color: white;
+}
+#birthdaysongs p{
+    text-align: center;
+}
+#birthdaysongs ul{
+    padding: 10px;
+    background-color: pink;
+    list-style-type: none;
+    text-align: center;
+    border: solid white;
+    border-radius: 20px;
+}
+#birthdaysongs ul li{
+    display: inline;
+    margin:20px;
+    
+    
+}
+#birthdaysongs ul li a{
+    color: black;
+    display: inline-block;
+    height: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+#birthdaysongs ul li a:hover{
+    color: darkred;
+    cursor: pointer;
+    background-color: white;
+}
+#bdp{
+    font-size: 45px;
+    width: 1008px;
+}
+
+#end p{
+    margin-top: 10px;
+    font-family: 'Amiri Quran', serif;
+    font-size: 50px;
+
+}
+footer center strong{
+    font-size: 30px;
+    height: 100px;
+    width: 100px;
+    border: black solid 2px ;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
